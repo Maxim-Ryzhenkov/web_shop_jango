@@ -1,0 +1,5 @@
+myvenv
+*.pyc
+*.rar
+*.zip
+*.log
